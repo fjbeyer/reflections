@@ -25,4 +25,4 @@ A new commit is created. It becomes the tip of the current branch. It's ancestor
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-Manual merging is tedious. Automatic merging may create bugs (not sure about that)
+Manual merging is tedious. Automatic merging may create bugs. 
